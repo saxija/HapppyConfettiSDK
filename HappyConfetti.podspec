@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'HappyConfetti'
-  s.version          = '1.0.1'
+  s.version          = '1.0.2'
   s.summary          = 'A delightful confetti effect for iOS apps.'
 
   s.description      = <<-DESC
@@ -10,7 +10,7 @@ Pod::Spec.new do |s|
   s.homepage         = 'https://github.com/saxija/HapppyConfettiSDK'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'saxija' => '1303sasa@gmail.com' }
-  s.source           = { :http => 'https://github.com/saxija/HapppyConfettiSDK/releases/download/1.0.1/HappyConfetti.zip'}
+  s.source           = { :http => 'https://github.com/saxija/HapppyConfettiSDK/releases/download/1.0.2/HappyConfetti.zip'}
 
   s.ios.deployment_target = '10.0'
 
